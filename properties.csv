@@ -1,0 +1,4 @@
+id,location,type,bhk,rent,furnishing,parking,contact,photos_link
+1,Indiranagar,Apartment,2BHK,25000,Furnished,Yes,Mr. Sharma - 9876543210,http://link-to-photo.com/1
+2,Koramangala,Apartment,3BHK,35000,Semi-Furnished,No,Ms. Priya - 9876501234,http://link-to-photo.com/2
+3,HSR Layout,House,1BHK,18000,Furnished,Yes,Mr. Vinay - 9876511223,http://link-to-photo.com/3
